@@ -1,4 +1,4 @@
-package Solutions
+package solutions
 
 import Utils.FileUtils
 
