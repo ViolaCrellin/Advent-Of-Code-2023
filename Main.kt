@@ -1,7 +1,7 @@
 import solutions.Solution
 
 fun main(){
-    val day = 2
+    val day = 3
     val solution = instantiateSolution(day) ?: throw Exception("day $day not recognized")
     val path = "Inputs\\Day$day"
     solution.solve(path)
